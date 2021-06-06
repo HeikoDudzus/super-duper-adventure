@@ -340,6 +340,7 @@ body {
   position: absolute;
   width: 90%;
   /*padding: 20px 0px;*/
+  text-align: left;
   padding: 5% 5%;
   z-index: 10;
   -webkit-transform-style: flat;
