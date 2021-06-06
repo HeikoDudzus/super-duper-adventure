@@ -338,9 +338,9 @@ body {
 .reveal .slides > section > section {
   display: none;
   position: absolute;
-  width: 90%;
-  /*padding: 20px 0px;*/
-  padding: 5% 5%;
+  width: 100%;
+  padding: 20px 0px;
+  /*padding: 5% 5%;*/
   z-index: 10;
   -webkit-transform-style: flat;
           transform-style: flat;
