@@ -318,10 +318,10 @@ body {
   position: absolute;
   width: 100%;
   height: 100%;
-  top: 10%;
-  right: 10%;
-  bottom: 10%;
-  left: 10%;
+  top: 5%;
+  right: 5%;
+  bottom: 5%;
+  left: 5%;
   margin: auto;
   overflow: visible;
   z-index: 1;
@@ -338,7 +338,7 @@ body {
 .reveal .slides > section > section {
   display: none;
   position: absolute;
-  width: 100%;
+  width: 90%;
   /*padding: 20px 0px;*/
   padding: 5% 5%;
   z-index: 10;
